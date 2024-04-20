@@ -19,3 +19,4 @@ class Solution(object):
                             land[x][y] = 0
                     res.append([i, j, bottom - 1, right - 1])
         return res
+ 
